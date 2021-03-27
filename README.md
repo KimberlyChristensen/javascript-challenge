@@ -10,7 +10,7 @@ This project involved creating code that creates a table dynamically based on pr
 
 ## Level 2: Multiple Search Categories
 
-* In addition to the specifications for Level 1, this JavaScript code involves using multiple `input` tags and/or select dropdowns to allow the user to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* In addition to the specifications for Level 1, this JavaScript code involves using multiple `input` tags to allow the user to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
